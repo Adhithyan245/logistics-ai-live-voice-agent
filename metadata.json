@@ -1,0 +1,8 @@
+{
+  "name": "Logistics AI Live Voice Agent",
+  "description": "A low-latency, real-time voice assistant handling logistics tracking, shipping inquiries, and human-agent escalation via the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
